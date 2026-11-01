@@ -2379,6 +2379,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 211,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "ndl-koke-no-koromo",
   "work": "苔の衣",
@@ -2391,7 +2395,7 @@
   "blocks": 212,
   "chars": 111078,
   "poems": 0,
-  "yaku": 0,
+  "yaku": 211,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T11:14:54+09:00"
